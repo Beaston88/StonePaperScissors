@@ -1,4 +1,4 @@
 # first_java_game
-Author - Ankit Kumar
+Author - Ankit (Beaston)
 <br>
 My first game is Rock Paper Scissors
