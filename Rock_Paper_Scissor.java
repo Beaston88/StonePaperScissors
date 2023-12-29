@@ -1,4 +1,4 @@
-package project;
+
 import java.util.*;
 import java.util.Random;
 public class Rock_Paper_Scissor {
